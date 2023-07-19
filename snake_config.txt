@@ -1,0 +1,10 @@
+
+#snake_config.txt
+#Comments are allowed in the file, as are blank lines
+
+#num_snakes      8   #add double the number of snakes to the board
+
+#Make the board bigger
+game_width      20 
+game_height     20
+duration 	60
